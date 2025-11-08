@@ -20,20 +20,20 @@ A collection of **quick and simple projects** created in under an hour each, des
 ## Screenshots / Outputs
 
 ### HTML Project 1
-![About Page](simple website/readme/about.png)  
-![Contact Page](readme/contact.png)  
-![Home Page](readme/home.png)  
-![Login Page](readme/login.png)  
-![Register Page](readme/register.png)  
+![About Page](simple-website/readme/about.png)  
+![Contact Page](simple-website/readme/contact.png)  
+![Home Page](simple-website/readme/home.png)  
+![Login Page](simple-website/readme/login.png)  
+![Register Page](simple-website/readme/register.png)  
 
 ### HTML Project 2
-![About Page](readme/travel1.png)  
-![Contact Page](readme/contact1.png)  
-![Home Page](readme/home1.png)  
-![Login Page](readme/destination1.png)  
+![About Page](simple-website-2/readme/travel1.png)  
+![Contact Page](simple-website-2/readme/contact1.png)  
+![Home Page](simple-website-2/readme/home1.png)  
+![Login Page](simple-website-2/readme/destination1.png)  
 
 ### Java Project
-![Java Project Output](readme/xo.png)  
+![Java Project Output](game1/readme/xo.png)  
 
 ---
 
