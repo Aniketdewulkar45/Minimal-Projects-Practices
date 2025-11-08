@@ -20,7 +20,7 @@ A collection of **quick and simple projects** created in under an hour each, des
 ## Screenshots / Outputs
 
 ### HTML Project 1
-![About Page](readme/about.png)  
+![About Page](simple website/readme/about.png)  
 ![Contact Page](readme/contact.png)  
 ![Home Page](readme/home.png)  
 ![Login Page](readme/login.png)  
